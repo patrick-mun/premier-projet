@@ -1,2 +1,2 @@
 # premier-projet
-apprentissage a GTIHIB
+apprentissage a GiTIHUB
